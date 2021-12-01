@@ -1,0 +1,86 @@
+ *, ::before, ::after {box-sizing: border-box;}
+body {
+	background: #fff;
+	position: relative;
+}
+div, span, a {
+	border: 1px solid #000;
+	min-height: 200px;
+	padding: 10px;
+	margin-bottom:  20px;
+}
+
+.class-1 {
+	border: 5px solid red;
+}
+span {
+	display:  block;
+}
+.class-2 {
+	border: 20px solid orange;
+}
+
+a {
+	color: black;
+	font-size: 18px;
+	display:  block;
+}
+
+* {
+	box-sizing: border-box;
+}
+div {
+
+}
+div#id-1 {
+
+}
+#id-1 {
+
+}
+div a {
+
+}
+div span {
+
+}
+a.class-2, span.class-1, p, div > a > span {
+
+}
+div > div {
+
+}
+div#id-1.class-2 {
+
+}
+
+div * {
+	background: #ff5633;
+}
+
+.black.class-2 {
+	background:  red;
+}
+span.class-2 {
+	background: purple;
+}
+#id-1.class-2 {
+	border-color:  red;
+}
+div#id-1 > .class-2 {
+	border-color:  blue;
+}
+
+a.class-2 {
+	background: #e3e3e3;
+}
+div#id-1 div.class-2 a:nth-of-type(3n) {
+	background:  black;
+}
+
+.bg-blue {
+	background:  blue;
+}
+.bg-red {
+	background:  red;
+}

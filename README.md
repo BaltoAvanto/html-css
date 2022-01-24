@@ -10,7 +10,7 @@ https://webref.ru
 <p>https://www.grammarly.com/</p>
 <p>https://bookflow.ru/neobhodimyj-minimum-dlya-frontend-razrabotchika/</p>
 <p>https://bookflow.ru/roadmap-dlya-frontend-razrabotchika/</p>
-<p></p>
+<p>habr.ru</p>
 <p></p>
 <p></p>
 
